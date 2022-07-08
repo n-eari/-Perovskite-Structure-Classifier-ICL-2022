@@ -2,9 +2,9 @@
  
 ## Classifier to predict the crystalline structure of Perovskites with Machine learning.
 
-### Written by Karen Pacho Dominguez, Navraj Eari, Rushvi Shah and Siddharth Puri | as part of our submission for the "MATE50001 - Mathematics and Computing 2 2021-2022" module
+### Written by Karen Pacho Dominguez, Navraj Eari, Rushvi Shah and Siddharth Puri | as part of our submission for the "MATE50001 - Mathematics and Computing 2 2021-2022" module.
 
-- A database of 4,165 ABO3 perovskites, each with 13 differernt of features such as bond length, electronegativities, and goldschmidt factors, was provided by an article on computational material science [1], which we used as our population data.
+- A database of 4,165 ABO3 perovskites, each with 13 differernt of features such as bond length, electronegativities, and goldschmidt factors, was provided by an article on computational material science[1], which we used as our population data.
 - **Notebook 1:** Contains preprocessing of population dataset, test-train-split, KNN, SVC, and Random Forst classifaction alogrithms, and optimisation of hyperparameters.
 - **Notebook 2:** Explanation of our methodolgy in Notebook 1 (why we performed certain preprocessing steps, physical relavence, conclusions drawn from each algorithm etc).
 - **Notebook 3:** Visualisation of the classifaction in the form of an interactive confusion matrix (or heat map) plot. Also provides numerical values such as the F1 score and accuracy.
