@@ -19,5 +19,4 @@
 [1] - Santosh Behara, Taher Poonawala, Tiju Thomas, Crystal structure classification in ABO3 perovskites via machine learning, Computational Materials Science,
 Volume 188, 2021, 110191,
 ISSN 0927-0256,
-https://doi.org/10.1016/j.commatsci.2020.110191.
 (https://www.sciencedirect.com/science/article/pii/S0927025620306820)
